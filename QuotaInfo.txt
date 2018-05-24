@@ -1,0 +1,122 @@
+FileSystemControlFlags = 0x00000002
+    Quotas are tracked and enforced on this volume
+    Logging for quota events is not enabled
+    The quota values are up to date
+
+Default Quota Threshold = 0xffffffffffffffff
+Default Quota Limit     = 0xffffffffffffffff
+
+SID Name        = BUILTIN\Administrators (Alias)
+Change time     = 24 травня 2018 р.   19:22:33
+Quota Used      = 61903204352
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT SERVICE\TrustedInstaller (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 6381645824
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\SYSTEM (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 35280962560
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = LAPTOP-OKM0UMI9\Yulyan (User)
+Change time     = 24 травня 2018 р.   19:23:02
+Quota Used      = 29988884480
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 62274560
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 89565184
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 1059840
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\LOCAL SERVICE (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 489703424
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT AUTHORITY\NETWORK SERVICE (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 801873920
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = LAPTOP-OKM0UMI9\defaultuser0 (User)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 40745984
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 4516864
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 8393728
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 166912
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 63488
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT SERVICE\MSSQLSERVER (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 701440
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = NT SERVICE\SQLTELEMETRY (WellKnownGroup)
+Change time     = 24 травня 2018 р.   19:12:58
+Quota Used      = 684032
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:13:06
+Quota Used      = 1050624
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+Error:  No mapping between account names and security IDs was done.
+Change time     = 24 травня 2018 р.   19:13:06
+Quota Used      = 9455616
+Quota Threshold = 18446744073709551615
+Quota Limit     = 18446744073709551615
+
+SID Name        = LAPTOP-OKM0UMI9\Yulyan_Karpiy (User)
+Change time     = 24 травня 2018 р.   19:19:16
+Quota Used      = 0
+Quota Threshold = 50
+Quota Limit     = 100
+

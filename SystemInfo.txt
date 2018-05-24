@@ -1,0 +1,4 @@
+Original Install Date:     21.11.2017, 3:24:58
+Total # of free bytes        : 122376572928
+Total # of bytes             : 254857441280
+Total # of avail free bytes  : 122376572928

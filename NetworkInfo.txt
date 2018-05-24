@@ -1,0 +1,203 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAPTOP-OKM0UMI9
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Mixed
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : Home.local
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GBE Family Controller
+   Physical Address. . . . . . . . . : FC-45-96-E9-2D-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-0B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::e4e1:a3fa:c1f4:daa8%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 705298471
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-A0-32-68-FC-45-96-E9-2D-8E
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network #2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter #2
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-11
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::c52d:c9a4:c842:ab10%17(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.216.2(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 839516199
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-A0-32-68-FC-45-96-E9-2D-8E
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 3E-95-09-95-E8-7B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 13:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #3
+   Physical Address. . . . . . . . . : 4E-95-09-95-E8-7B
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::8d73:89ff:22ee:a5f4%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.137.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 609129737
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-A0-32-68-FC-45-96-E9-2D-8E
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : Home.local
+   Description . . . . . . . . . . . : Qualcomm Atheros QCA61x4A Wireless Network Adapter
+   Physical Address. . . . . . . . . : 3C-95-09-95-E8-7B
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::89cb:f27b:7035:1ff%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.182(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 24 травня 2018 р. 20:23:46
+   Lease Expires . . . . . . . . . . : 25 травня 2018 р. 4:23:41
+   Default Gateway . . . . . . . . . : 192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 37524745
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-A0-32-68-FC-45-96-E9-2D-8E
+   DNS Servers . . . . . . . . . . . : 8.8.8.8
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 3C-95-09-95-E8-7C
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter Local Area Connection* 12:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Teredo Tunneling Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:0:9d38:6abd:2464:143e:a028:61e0(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::2464:143e:a028:61e0%16(Preferred) 
+   Default Gateway . . . . . . . . . : ::
+   DHCPv6 IAID . . . . . . . . . . . : 268435456
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-20-A0-32-68-FC-45-96-E9-2D-8E
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+===========================================================================
+Interface List
+  6...fc 45 96 e9 2d 8e ......Realtek PCIe GBE Family Controller
+ 11...0a 00 27 00 00 0b ......VirtualBox Host-Only Ethernet Adapter
+ 17...0a 00 27 00 00 11 ......VirtualBox Host-Only Ethernet Adapter #2
+ 21...3e 95 09 95 e8 7b ......Microsoft Wi-Fi Direct Virtual Adapter
+ 13...4e 95 09 95 e8 7b ......Microsoft Wi-Fi Direct Virtual Adapter #3
+  3...3c 95 09 95 e8 7b ......Qualcomm Atheros QCA61x4A Wireless Network Adapter
+  4...3c 95 09 95 e8 7c ......Bluetooth Device (Personal Area Network)
+  1...........................Software Loopback Interface 1
+ 16...00 00 00 00 00 00 00 e0 Microsoft Teredo Tunneling Adapter
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0      192.168.1.1    192.168.1.182     35
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.182    291
+    192.168.1.182  255.255.255.255         On-link     192.168.1.182    291
+    192.168.1.255  255.255.255.255         On-link     192.168.1.182    291
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+    192.168.137.0    255.255.255.0         On-link     192.168.137.1    281
+    192.168.137.1  255.255.255.255         On-link     192.168.137.1    281
+  192.168.137.255  255.255.255.255         On-link     192.168.137.1    281
+    192.168.216.0    255.255.255.0         On-link     192.168.216.2    281
+    192.168.216.2  255.255.255.255         On-link     192.168.216.2    281
+  192.168.216.255  255.255.255.255         On-link     192.168.216.2    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link     192.168.1.182    291
+        224.0.0.0        240.0.0.0         On-link     192.168.137.1    281
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link     192.168.216.2    281
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link     192.168.1.182    291
+  255.255.255.255  255.255.255.255         On-link     192.168.137.1    281
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link     192.168.216.2    281
+===========================================================================
+Persistent Routes:
+  None
+
+IPv6 Route Table
+===========================================================================
+Active Routes:
+ If Metric Network Destination      Gateway
+ 16    331 ::/0                     On-link
+  1    331 ::1/128                  On-link
+ 16    331 2001::/32                On-link
+ 16    331 2001:0:9d38:6abd:2464:143e:a028:61e0/128
+                                    On-link
+  3    291 fe80::/64                On-link
+ 13    281 fe80::/64                On-link
+ 11    281 fe80::/64                On-link
+ 17    281 fe80::/64                On-link
+ 16    331 fe80::/64                On-link
+ 16    331 fe80::2464:143e:a028:61e0/128
+                                    On-link
+  3    291 fe80::89cb:f27b:7035:1ff/128
+                                    On-link
+ 13    281 fe80::8d73:89ff:22ee:a5f4/128
+                                    On-link
+ 17    281 fe80::c52d:c9a4:c842:ab10/128
+                                    On-link
+ 11    281 fe80::e4e1:a3fa:c1f4:daa8/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+  3    291 ff00::/8                 On-link
+ 13    281 ff00::/8                 On-link
+ 16    331 ff00::/8                 On-link
+ 11    281 ff00::/8                 On-link
+ 17    281 ff00::/8                 On-link
+===========================================================================
+Persistent Routes:
+  None
